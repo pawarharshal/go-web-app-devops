@@ -1,5 +1,9 @@
 # CICD using GitHub actions
-#docker repo cgeated
+#day 2 check
+
+
+
+
 name: CI/CD
 
 # Exclude the workflow to run on changes to the helm chart
